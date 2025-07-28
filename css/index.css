@@ -130,7 +130,7 @@ body {
   	width: 330px;
   	height: 600px; /* 3 icon: 520px ; 4 icon: 600px */
 	margin-left: -165px;
-	margin-top: 20px;
+	margin-top: -300px;
 	margin-bottom: 20px;
   }
   #innerCard {
